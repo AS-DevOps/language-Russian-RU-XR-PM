@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="English (EN)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-EN" text_direction="LTR" addon_id="XR/PM" base_version_id="2000270" export_version="2">
+<language title="Russian (RU)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-EN" text_direction="LTR" addon_id="XR/PM" base_version_id="2000270" export_version="2">
   <phrase title="admin_navigation.xr_pm" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Менеджер по продукту]]></phrase>
   <phrase title="admin_navigation.xr_pm_categories" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Категории]]></phrase>
   <phrase title="admin_navigation.xr_pm_category_perms" addon_id="XR/PM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Управление правами доступа категории]]></phrase>
@@ -77,8 +77,8 @@
   <phrase title="xr_pm_create_new_group_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If you wish to create a new user group specifically for this product, select &quot;Create new group&quot;. It will be created with the name &quot;@ Licensed customer: &lt;Product name&gt;&quot;.]]></phrase>
   <phrase title="xr_pm_create_new_group_extra_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If you wish to create a new user group specifically for this extra, select &quot;Create new group&quot;. It will be created with the name &quot;@ Extra reward: &lt;Extra name&gt;&quot;.]]></phrase>
   <phrase title="xr_pm_creator" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Автор]]></phrase>
-  <phrase title="xr_pm_currency_used_for_price_given_here_will_be_inherited_from_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The currency used for the price given here will be inherited from the product/purchase it is applied to.]]></phrase>
-  <phrase title="xr_pm_current_version_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current version {version_string}]]></phrase>
+  <phrase title="xr_pm_currency_used_for_price_given_here_will_be_inherited_from_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Валюта, используемая для указанной здесь цены, будет унаследована от продукта / покупки, к которой она применяется.]]></phrase>
+  <phrase title="xr_pm_current_version_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Актуальная версия: {version}]]></phrase>
   <phrase title="xr_pm_customer_purchases" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Покупки клиентов]]></phrase>
   <phrase title="xr_pm_customize_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Настройка покупки]]></phrase>
   <phrase title="xr_pm_discount_total" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Общая сумма скидки]]></phrase>
@@ -104,7 +104,7 @@
   <phrase title="xr_pm_extra_title" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Название дополнения]]></phrase>
   <phrase title="xr_pm_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Дополнения]]></phrase>
   <phrase title="xr_pm_extras_for_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(Дополнительные услуги для {purchase_key})]]></phrase>
-  <phrase title="xr_pm_extras_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Доп. цена]]></phrase>
+  <phrase title="xr_pm_extras_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[цена]]></phrase>
   <phrase title="xr_pm_feature_summary" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Краткое описание функций]]></phrase>
   <phrase title="xr_pm_first_release" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Первая версия]]></phrase>
   <phrase title="xr_pm_free" addon_id="XR/PM" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[БЕСПЛАТНО]]></phrase>
