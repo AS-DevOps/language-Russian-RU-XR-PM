@@ -54,57 +54,57 @@
   <phrase title="xr_pm_change_log_items" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Элементы журнала изменений]]></phrase>
   <phrase title="xr_pm_click_for_usage_instructions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Нажмите для просмотра инструкции по использованию]]></phrase>
   <phrase title="xr_pm_click_for_your_additional_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Нажмите для вашего дополнительного файла]]></phrase>
-  <phrase title="xr_pm_confirm_extras_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Confirm extras purchase]]></phrase>
+  <phrase title="xr_pm_confirm_extras_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Подтвердить покупку]]></phrase>
   <phrase title="xr_pm_confirm_license_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, the user will need to agree to the above terms and conditions (or the <a href="{link}" target="_blank">default terms</a>) before downloading.]]></phrase>
-  <phrase title="xr_pm_confirm_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Confirm purchase]]></phrase>
-  <phrase title="xr_pm_confirm_renewal" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Confirm renewal]]></phrase>
-  <phrase title="xr_pm_coupon_applies_to" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon applies to]]></phrase>
-  <phrase title="xr_pm_coupon_automatically_assigned_to" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon automatically assigned to]]></phrase>
-  <phrase title="xr_pm_coupon_code" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon code]]></phrase>
-  <phrase title="xr_pm_coupon_description" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon description]]></phrase>
-  <phrase title="xr_pm_coupon_discount" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon discount]]></phrase>
+  <phrase title="xr_pm_confirm_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Подтвердите покупку]]></phrase>
+  <phrase title="xr_pm_confirm_renewal" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Подтвердите продление]]></phrase>
+  <phrase title="xr_pm_coupon_applies_to" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Применен купонный номер]]></phrase>
+  <phrase title="xr_pm_coupon_automatically_assigned_to" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон назначается автоматически]]></phrase>
+  <phrase title="xr_pm_coupon_code" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Код купона]]></phrase>
+  <phrase title="xr_pm_coupon_description" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Описание купона]]></phrase>
+  <phrase title="xr_pm_coupon_discount" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон на скидку]]></phrase>
   <phrase title="xr_pm_coupon_expires" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon expires]]></phrase>
-  <phrase title="xr_pm_coupon_is_active" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon is active]]></phrase>
+  <phrase title="xr_pm_coupon_is_active" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон активен]]></phrase>
   <phrase title="xr_pm_coupon_not_valid_type_for_this_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon not a valid type for this purchase. Please try again.]]></phrase>
-  <phrase title="xr_pm_coupon_title" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon title]]></phrase>
-  <phrase title="xr_pm_coupon_usable_by" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon usable by]]></phrase>
-  <phrase title="xr_pm_coupon_x_applies_to_extras_and_none_selected_for" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon ({coupon_code}) applies to extras and none are selected for this purchase. Please try again.]]></phrase>
-  <phrase title="xr_pm_coupon_x_does_not_apply_to_any_of_selected_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon ({coupon_code}) does not apply to any of the selected extras for this purchase. Please try again.]]></phrase>
-  <phrase title="xr_pm_coupon_x_does_not_apply_to_any_of_selected_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupon ({coupon_code}) does not apply to any of the selected products for this purchase. Please try again.]]></phrase>
-  <phrase title="xr_pm_coupons_applied" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Coupons applied]]></phrase>
-  <phrase title="xr_pm_create_category" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Create category]]></phrase>
-  <phrase title="xr_pm_create_new_group" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Create new group]]></phrase>
-  <phrase title="xr_pm_create_new_group_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If you wish to create a new user group specifically for this product, select &quot;Create new group&quot;. It will be created with the name &quot;@ Licensed customer: &lt;Product name&gt;&quot;.]]></phrase>
-  <phrase title="xr_pm_create_new_group_extra_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If you wish to create a new user group specifically for this extra, select &quot;Create new group&quot;. It will be created with the name &quot;@ Extra reward: &lt;Extra name&gt;&quot;.]]></phrase>
-  <phrase title="xr_pm_creator" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Creator]]></phrase>
-  <phrase title="xr_pm_currency_used_for_price_given_here_will_be_inherited_from_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The currency used for the price given here will be inherited from the product/purchase it is applied to.]]></phrase>
-  <phrase title="xr_pm_current_version_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current version {version_string}]]></phrase>
-  <phrase title="xr_pm_customer_purchases" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Customer purchases]]></phrase>
-  <phrase title="xr_pm_customize_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Customize purchase]]></phrase>
-  <phrase title="xr_pm_discount_total" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discount total]]></phrase>
-  <phrase title="xr_pm_download" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Download]]></phrase>
-  <phrase title="xr_pm_download_log" addon_id="XR/PM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Download log]]></phrase>
-  <phrase title="xr_pm_downloadable_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Downloadable file]]></phrase>
-  <phrase title="xr_pm_downloads" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Downloads]]></phrase>
-  <phrase title="xr_pm_edit_category" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit category]]></phrase>
-  <phrase title="xr_pm_edit_coupon" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit coupon]]></phrase>
-  <phrase title="xr_pm_edit_details" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit details]]></phrase>
-  <phrase title="xr_pm_edit_extra" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit extra]]></phrase>
-  <phrase title="xr_pm_edit_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit product]]></phrase>
-  <phrase title="xr_pm_edit_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit purchase]]></phrase>
-  <phrase title="xr_pm_edit_thumbnail" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit thumbnail]]></phrase>
-  <phrase title="xr_pm_edit_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit version]]></phrase>
-  <phrase title="xr_pm_entire_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Entire purchase]]></phrase>
-  <phrase title="xr_pm_existing_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Existing file]]></phrase>
+  <phrase title="xr_pm_coupon_title" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Название купона]]></phrase>
+  <phrase title="xr_pm_coupon_usable_by" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон можно использовать]]></phrase>
+  <phrase title="xr_pm_coupon_x_applies_to_extras_and_none_selected_for" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон ({coupon_code}) применим к дополнительным услугам и не выбран для этой покупки. Пожалуйста, повторите попытку позже.]]></phrase>
+  <phrase title="xr_pm_coupon_x_does_not_apply_to_any_of_selected_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон ({код купона}) не применяется ни к одному из выбранных дополнительных услуг этой покупки. Пожалуйста, повторите попытку позже.]]></phrase>
+  <phrase title="xr_pm_coupon_x_does_not_apply_to_any_of_selected_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купон ({coupon_code}) не применяется к выбранным услугам для этой покупки. Please try again.]]></phrase>
+  <phrase title="xr_pm_coupons_applied" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Применен номер купона]]></phrase>
+  <phrase title="xr_pm_create_category" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Создать категорию]]></phrase>
+  <phrase title="xr_pm_create_new_group" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Создать новую группу]]></phrase>
+  <phrase title="xr_pm_create_new_group_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Если вы хотите создать новую группу пользователей конкретно для этого продукта, выберите &quot;Создать новую группу&quot;. Будет создан с именем &quot;@ Клиент лицензии: &lt;Product name&gt;&quot;.]]></phrase>
+  <phrase title="xr_pm_create_new_group_extra_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Если вы хотите создать новую группу пользователей конкретно для этого продукта, выберите &quot;Создать новую группу&quot;. Будет создан с именем &quot;@ Клиент лицензии: &lt;Extra name&gt;&quot;.]]></phrase>
+  <phrase title="xr_pm_creator" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Автор]]></phrase>
+  <phrase title="xr_pm_currency_used_for_price_given_here_will_be_inherited_from_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Валюта, используемая для указанной здесь цены, будет унаследована от продукта / покупки, к которой она применяется.]]></phrase>
+  <phrase title="xr_pm_current_version_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Актуальная версия: {version}]]></phrase>
+  <phrase title="xr_pm_customer_purchases" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Покупки клиентов]]></phrase>
+  <phrase title="xr_pm_customize_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Настройка покупки]]></phrase>
+  <phrase title="xr_pm_discount_total" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Общая сумма скидки]]></phrase>
+  <phrase title="xr_pm_download" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Загрузить]]></phrase>
+  <phrase title="xr_pm_download_log" addon_id="XR/PM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Журнал загрузок]]></phrase>
+  <phrase title="xr_pm_downloadable_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Загружаемый файл]]></phrase>
+  <phrase title="xr_pm_downloads" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Скачивания]]></phrase>
+  <phrase title="xr_pm_edit_category" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать категорию]]></phrase>
+  <phrase title="xr_pm_edit_coupon" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать купон]]></phrase>
+  <phrase title="xr_pm_edit_details" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать подробности]]></phrase>
+  <phrase title="xr_pm_edit_extra" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать опцию]]></phrase>
+  <phrase title="xr_pm_edit_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать товар]]></phrase>
+  <phrase title="xr_pm_edit_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать покупку]]></phrase>
+  <phrase title="xr_pm_edit_thumbnail" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Коррекция миниатюры]]></phrase>
+  <phrase title="xr_pm_edit_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Редактировать версию]]></phrase>
+  <phrase title="xr_pm_entire_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Все покупки]]></phrase>
+  <phrase title="xr_pm_existing_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Существующий файл]]></phrase>
   <phrase title="xr_pm_expires_between" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Expires between]]></phrase>
-  <phrase title="xr_pm_expiry_date" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Expiry date]]></phrase>
-  <phrase title="xr_pm_extra_description" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra description]]></phrase>
+  <phrase title="xr_pm_expiry_date" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Истечение срока действия]]></phrase>
+  <phrase title="xr_pm_extra_description" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Дополнительное описание]]></phrase>
   <phrase title="xr_pm_extra_renew_price_note" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Owners of this optional extra will have this amount added on to their existing purchases when they renew.]]></phrase>
-  <phrase title="xr_pm_extra_reward_user_group_title_prefix" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[@ Extra reward]]></phrase>
-  <phrase title="xr_pm_extra_title" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra title]]></phrase>
-  <phrase title="xr_pm_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extras]]></phrase>
-  <phrase title="xr_pm_extras_for_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(Extras for {purchase_key})]]></phrase>
-  <phrase title="xr_pm_extras_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extras price]]></phrase>
+  <phrase title="xr_pm_extra_reward_user_group_title_prefix" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[@ Дополнительное вознаграждение]]></phrase>
+  <phrase title="xr_pm_extra_title" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Название дополнения]]></phrase>
+  <phrase title="xr_pm_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Дополнения]]></phrase>
+  <phrase title="xr_pm_extras_for_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(Дополнительные услуги для {purchase_key})]]></phrase>
+  <phrase title="xr_pm_extras_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[цена]]></phrase>
   <phrase title="xr_pm_feature_summary" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Краткое описание функций]]></phrase>
   <phrase title="xr_pm_first_release" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Первая версия]]></phrase>
   <phrase title="xr_pm_free" addon_id="XR/PM" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[БЕСПЛАТНО]]></phrase>
@@ -167,31 +167,31 @@
   <phrase title="xr_pm_post_update_to_forum_explain" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[If you select a forum above, a thread will be posted containing the update details.]]></phrase>
   <phrase title="xr_pm_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Продукция]]></phrase>
   <phrase title="xr_pm_product_categories" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Категории товара]]></phrase>
-  <phrase title="xr_pm_product_category_permissions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product category permissions]]></phrase>
-  <phrase title="xr_pm_product_coupons" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product coupons]]></phrase>
-  <phrase title="xr_pm_product_currency" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product currency]]></phrase>
-  <phrase title="xr_pm_product_details" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product details]]></phrase>
-  <phrase title="xr_pm_product_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product extras]]></phrase>
-  <phrase title="xr_pm_product_fields" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Product fields]]></phrase>
-  <phrase title="xr_pm_product_information" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product information]]></phrase>
-  <phrase title="xr_pm_product_is_active" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product is active]]></phrase>
-  <phrase title="xr_pm_product_manager" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product manager]]></phrase>
-  <phrase title="xr_pm_product_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product price]]></phrase>
-  <phrase title="xr_pm_product_versions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Product versions]]></phrase>
+  <phrase title="xr_pm_product_category_permissions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Управление правами доступа категории]]></phrase>
+  <phrase title="xr_pm_product_coupons" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Купоны на товары]]></phrase>
+  <phrase title="xr_pm_product_currency" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Валюта товара]]></phrase>
+  <phrase title="xr_pm_product_details" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Данные по товарам]]></phrase>
+  <phrase title="xr_pm_product_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Дополнения к товару]]></phrase>
+  <phrase title="xr_pm_product_fields" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Поля товаров]]></phrase>
+  <phrase title="xr_pm_product_information" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Информация о товаре]]></phrase>
+  <phrase title="xr_pm_product_is_active" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Активен]]></phrase>
+  <phrase title="xr_pm_product_manager" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Менеджер по продукту]]></phrase>
+  <phrase title="xr_pm_product_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Цена товара]]></phrase>
+  <phrase title="xr_pm_product_versions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Версия продукта]]></phrase>
   <phrase title="xr_pm_product_x_version_y_released" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[{product} {version} released]]></phrase>
-  <phrase title="xr_pm_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Products]]></phrase>
+  <phrase title="xr_pm_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Товары]]></phrase>
   <phrase title="xr_pm_products_which_no_longer_active_can_no_longer_be_purchased" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Products which are no longer active can no longer be purchased, but they will remain visible in any user's existing purchases. It will not be possible for inactive products to be purchased, by extras for them or renew expired purchases.]]></phrase>
   <phrase title="xr_pm_purchasable_with_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchasable with products]]></phrase>
   <phrase title="xr_pm_purchase_cannot_be_activated_as_it_is_in_invalid_state" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase cannot be activated as it is in an invalid state or does not require activation.]]></phrase>
   <phrase title="xr_pm_purchase_currency" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase currency]]></phrase>
-  <phrase title="xr_pm_purchase_date" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase date]]></phrase>
+  <phrase title="xr_pm_purchase_date" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Дата покупки]]></phrase>
   <phrase title="xr_pm_purchase_edit_price_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[These values can be independently edited and the total values etc. are not calculated automatically.]]></phrase>
   <phrase title="xr_pm_purchase_expired_email_body" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[{name},<br />
 <br />
 Your purchase {purchase_key} for product {product_title} has expired.<br />
 <br />
 You will be unable to download updates or receive support for the product until the purchase is renewed.]]></phrase>
-  <phrase title="xr_pm_purchase_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase extras]]></phrase>
+  <phrase title="xr_pm_purchase_extras" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Покупка дополнений]]></phrase>
   <phrase title="xr_pm_purchase_for_x_has_been_transferred_to_you" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[A purchase for {product_title} has been transferred to you.]]></phrase>
   <phrase title="xr_pm_purchase_key" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase key]]></phrase>
   <phrase title="xr_pm_purchase_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase price]]></phrase>
@@ -239,29 +239,29 @@ You should now be able to download updates, receive support and view the purchas
   <phrase title="xr_pm_release_new_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Release new version]]></phrase>
   <phrase title="xr_pm_renew" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renew]]></phrase>
   <phrase title="xr_pm_renew_for_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renew for {price}]]></phrase>
-  <phrase title="xr_pm_renew_this_purchase" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Renew this purchase]]></phrase>
-  <phrase title="xr_pm_renewal" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renewal]]></phrase>
-  <phrase title="xr_pm_renewal_for_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(Renewal for {purchase_key})]]></phrase>
-  <phrase title="xr_pm_renewal_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renewal price]]></phrase>
-  <phrase title="xr_pm_renewals" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renewals]]></phrase>
+  <phrase title="xr_pm_renew_this_purchase" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Продлить эту покупку]]></phrase>
+  <phrase title="xr_pm_renewal" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Продление]]></phrase>
+  <phrase title="xr_pm_renewal_for_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(Продлить для {purchase_key})]]></phrase>
+  <phrase title="xr_pm_renewal_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Цена продления]]></phrase>
+  <phrase title="xr_pm_renewals" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Продление]]></phrase>
   <phrase title="xr_pm_replacing_file_here_does_not_release_update_or_notify_purchasers" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Replacing the file here does not release an update or notify purchasers. Use the <a href="{link}" target="_blank" data-xf-click="overlay">Release new version</a> system for that purpose.]]></phrase>
   <phrase title="xr_pm_requires_activation_before_download" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Requires activation before download]]></phrase>
   <phrase title="xr_pm_requires_activation_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a license requires activation before download then the purchaser will be required to provide their site name and URL before being able to download.]]></phrase>
-  <phrase title="xr_pm_search_child_categories_as_well" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search child categories as well]]></phrase>
-  <phrase title="xr_pm_search_in_categories" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search in categories]]></phrase>
-  <phrase title="xr_pm_search_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search products]]></phrase>
-  <phrase title="xr_pm_search_purchases" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search purchases]]></phrase>
+  <phrase title="xr_pm_search_child_categories_as_well" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Поиск дочерних категорий]]></phrase>
+  <phrase title="xr_pm_search_in_categories" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Искать в категориях]]></phrase>
+  <phrase title="xr_pm_search_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Поиск продуктов]]></phrase>
+  <phrase title="xr_pm_search_purchases" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Поиск в покупках:]]></phrase>
   <phrase title="xr_pm_select_purchase_to_download_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Select purchase to download product]]></phrase>
   <phrase title="xr_pm_selected_coupon_x_has_now_expired" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The selected coupon ({coupon_code}) has now expired.]]></phrase>
   <phrase title="xr_pm_selected_coupon_x_is_no_longer_available" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The selected coupon ({coupon_code}) is no longer available.]]></phrase>
-  <phrase title="xr_pm_send_notifications" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Send notifications]]></phrase>
+  <phrase title="xr_pm_send_notifications" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Отправлять уведомления]]></phrase>
   <phrase title="xr_pm_send_notifications_explain" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[By default, all valid purchasers of this product will receive an alert and an email notifying them of this update. You can opt out of the notifications for this update above.]]></phrase>
-  <phrase title="xr_pm_specific_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specific products]]></phrase>
-  <phrase title="xr_pm_tab_content" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Tab content]]></phrase>
-  <phrase title="xr_pm_tab_link" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Tab link]]></phrase>
-  <phrase title="xr_pm_tag_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The tag line should be a brief sentence about what this product is for.]]></phrase>
-  <phrase title="xr_pm_tag_line" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag line]]></phrase>
-  <phrase title="xr_pm_terms_and_conditions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and conditions]]></phrase>
+  <phrase title="xr_pm_specific_products" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Определенный товар]]></phrase>
+  <phrase title="xr_pm_tab_content" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Содержимое вкладки]]></phrase>
+  <phrase title="xr_pm_tab_link" addon_id="XR/PM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Ссылка на вкладку]]></phrase>
+  <phrase title="xr_pm_tag_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Тэг должен быть кратким предложением о том, для чего предназначен этот продукт.]]></phrase>
+  <phrase title="xr_pm_tag_line" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Тэг]]></phrase>
+  <phrase title="xr_pm_terms_and_conditions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Условия предоставления сервиса]]></phrase>
   <phrase title="xr_pm_terms_and_conditions_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter the terms and conditions relating to the purchase of this product.]]></phrase>
   <phrase title="xr_pm_thank_you_for_buying_extras_for_this_purchase_success" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thank you for buying extras for this purchase. The purchase details will be updated once the payment is processed.]]></phrase>
   <phrase title="xr_pm_thank_you_for_making_purchase_at_x" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thank you for making a purchase at <a href="{board_url}">{board_title}</a>.]]></phrase>
@@ -269,7 +269,7 @@ You should now be able to download updates, receive support and view the purchas
   <phrase title="xr_pm_there_newer_but_unsupported_versions_available" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There are newer (but unsupported) versions available for download in the list above.]]></phrase>
   <phrase title="xr_pm_there_no_products_matching_your_filters" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There are no products matching your filters.]]></phrase>
   <phrase title="xr_pm_there_no_valid_versions_available_for_this_purchase" addon_id="XR/PM" version_id="2000170" version_string="2.0.1"><![CDATA[There are no valid versions available for this purchase.]]></phrase>
-  <phrase title="xr_pm_this_category" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This category]]></phrase>
+  <phrase title="xr_pm_this_category" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Эта категория]]></phrase>
   <phrase title="xr_pm_this_currency_will_be_used_for_all_price_formatting_and_payments_related_to_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This currency will be used for all price formatting and payments related to this product.]]></phrase>
   <phrase title="xr_pm_this_is_cost_for_renewing_purchase_after_initial_support" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the cost for renewing a purchase after the initial support duration has expired (if one is defined below).]]></phrase>
   <phrase title="xr_pm_this_is_generated_key_which_uniquely_identifies_this_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is a generated key which uniquely identifies this purchase.]]></phrase>
@@ -279,25 +279,25 @@ You should now be able to download updates, receive support and view the purchas
   <phrase title="xr_pm_this_purchase_is_already_assigned_to_that_user" addon_id="XR/PM" version_id="2000170" version_string="2.0.1"><![CDATA[This purchase is already assigned to that user.]]></phrase>
   <phrase title="xr_pm_this_was_renewal_or_extra_purchase" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This was a renewal or extra purchase so the details of the purchase this updated are above.]]></phrase>
   <phrase title="xr_pm_title_and_current_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Title and current version]]></phrase>
-  <phrase title="xr_pm_title_and_initial_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Title and initial version]]></phrase>
-  <phrase title="xr_pm_total_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Total price]]></phrase>
-  <phrase title="xr_pm_transfer" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Transfer]]></phrase>
-  <phrase title="xr_pm_transfer_purchase" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Transfer purchase]]></phrase>
-  <phrase title="xr_pm_unsubscribe_from_all_product_updates" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{link}">Unsubscribe from all product updates</a>]]></phrase>
-  <phrase title="xr_pm_unsupported" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unsupported]]></phrase>
-  <phrase title="xr_pm_updates" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Updates]]></phrase>
-  <phrase title="xr_pm_upload_images" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload images]]></phrase>
-  <phrase title="xr_pm_upload_new_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload new file]]></phrase>
-  <phrase title="xr_pm_upload_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload product]]></phrase>
-  <phrase title="xr_pm_upload_thumbnail" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload thumbnail]]></phrase>
-  <phrase title="xr_pm_user_group_promotion" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User group promotion]]></phrase>
-  <phrase title="xr_pm_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version]]></phrase>
-  <phrase title="xr_pm_version_details" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version details]]></phrase>
-  <phrase title="xr_pm_version_is_unsupported" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version is unsupported]]></phrase>
-  <phrase title="xr_pm_version_is_unsupported_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If checked, the product's current version string will not be updated but this version will still be available to download.]]></phrase>
-  <phrase title="xr_pm_version_string" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version string]]></phrase>
-  <phrase title="xr_pm_version_update_subject" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{product} {version} released]]></phrase>
-  <phrase title="xr_pm_versions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Versions]]></phrase>
+  <phrase title="xr_pm_title_and_initial_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Название и начальная версия]]></phrase>
+  <phrase title="xr_pm_total_price" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Общая стоимость]]></phrase>
+  <phrase title="xr_pm_transfer" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Передать]]></phrase>
+  <phrase title="xr_pm_transfer_purchase" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Переведи заказ поставщику ]]></phrase>
+  <phrase title="xr_pm_unsubscribe_from_all_product_updates" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{link}">Отписаться от всех обновлений продуктов</a>]]></phrase>
+  <phrase title="xr_pm_unsupported" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Не поддерживается]]></phrase>
+  <phrase title="xr_pm_updates" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Обновления]]></phrase>
+  <phrase title="xr_pm_upload_images" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Загрузить изображения]]></phrase>
+  <phrase title="xr_pm_upload_new_file" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Загрузить новый файл]]></phrase>
+  <phrase title="xr_pm_upload_product" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Загрузка товаров]]></phrase>
+  <phrase title="xr_pm_upload_thumbnail" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Загрузить уменьшенную картинку]]></phrase>
+  <phrase title="xr_pm_user_group_promotion" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Продвижение группы пользователей]]></phrase>
+  <phrase title="xr_pm_version" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Версия]]></phrase>
+  <phrase title="xr_pm_version_details" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Описание версии]]></phrase>
+  <phrase title="xr_pm_version_is_unsupported" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Версия не поддерживается]]></phrase>
+  <phrase title="xr_pm_version_is_unsupported_explain" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Если флажок установлен, текущая строка версии продукта не будет обновлена, но эта версия по-прежнему будет доступна для скачивания.]]></phrase>
+  <phrase title="xr_pm_version_string" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Строка версии]]></phrase>
+  <phrase title="xr_pm_version_update_subject" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{product} {version} выпущен]]></phrase>
+  <phrase title="xr_pm_versions" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Версии]]></phrase>
   <phrase title="xr_pm_view_all_of_your_purchases" addon_id="XR/PM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Посмотреть все ваши покупки]]></phrase>
   <phrase title="xr_pm_view_this_purchase" addon_id="XR/PM" version_id="2000070" version_string="2.0.0"><![CDATA[Просмотреть эту покупку]]></phrase>
   <phrase title="xr_pm_viewing_product" addon_id="XR/PM" version_id="2000170" version_string="2.0.1"><![CDATA[Просмотр продукта]]></phrase>
